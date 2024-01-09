@@ -6,7 +6,7 @@ Direct Link to Application: [CLICK HERE](https://msalarzon.github.io/Easy-Plan-T
 
 ## Description
 
-This project is a basic and straightforward calendar app designed to help users manage their daily schedules and events. The app provides a clean and intuitive interface, allowing users to easily navigate and add, edit, or delete events.
+This project is a very basic, simple and straightforward work/business calendar app designed to help users manage their daily schedules and events. The app provides a clean and intuitive interface, allowing users to easily navigate and add, edit, or delete events.
 
 - [Installation](#installation)
 - [Features](#features)
@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 
 Key Features:
 
-- Monthly view displaying days and dates.
+- The calendar provides a 9 to 5 hourly view of the current date, displaying the schedule for each hour.
 - Simple event management: add, edit, and delete events.
 - User-friendly design for an easy and smooth experience.
 - Lightweight and easy to integrate into other projects.

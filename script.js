@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    $("#currentDay").text(dayjs().format("dddd, MMMM D, YYYY"));
+    $("#currentDay").css("font-weight", "bold").text(dayjs().format("🗓️ dddd, MMMM D, YYYY"));
 
     // Apply past, present, or future styling based on the current hour
     function createTimeBlocks() {
